@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://redhat-developer.github.io/service-binding-operator/devguide/architecture.html</loc>
-<lastmod>2021-12-22T11:54:21.203Z</lastmod>
+<lastmod>2022-10-04T04:24:54.867Z</lastmod>
+</url>
+<url>
+<loc>https://redhat-developer.github.io/service-binding-operator/devguide/1.2.x/architecture.html</loc>
+<lastmod>2022-10-04T04:24:54.867Z</lastmod>
+</url>
+<url>
+<loc>https://redhat-developer.github.io/service-binding-operator/devguide/1.1.1/architecture.html</loc>
+<lastmod>2022-10-04T04:24:54.867Z</lastmod>
+</url>
+<url>
+<loc>https://redhat-developer.github.io/service-binding-operator/devguide/1.1.0/architecture.html</loc>
+<lastmod>2022-10-04T04:24:54.867Z</lastmod>
+</url>
+<url>
+<loc>https://redhat-developer.github.io/service-binding-operator/devguide/1.0.1/architecture.html</loc>
+<lastmod>2022-10-04T04:24:54.867Z</lastmod>
 </url>
 </urlset>
